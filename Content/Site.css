@@ -1,0 +1,49 @@
+﻿/* Add this code to your site.css file */
+
+/* Banner */
+header.banner {
+    background-color: #cfcfcf;
+    text-align: center;
+    padding: 1em 0;
+}
+
+    header.banner img {
+        width: 100%;
+        height: auto;
+    }
+
+/* Navigation */
+.navbar {
+    background-color: #cfcfcf;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #000000;
+}
+
+/* Main Content */
+.container.body-content {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+/* Footer */
+footer {
+    background-color: #cfcfcf;
+    padding: 20px 0;
+}
+
+    footer hr {
+        border-top: 1px solid #2f2f2f;
+    }
+
+    footer .col-sm-4 {
+        color: #2f2f2f;
+    }
+
+    footer .glyphicon {
+        margin-right: 5px;
+    }
+.btn-light-grey {
+    background-color: lightgrey;
+}
